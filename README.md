@@ -1,1 +1,2 @@
-# sass-corousel
+# sass-carousel
+sass carousel
